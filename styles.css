@@ -20,12 +20,17 @@ h1 {
 body>h1 {
     text-align: left;
     font-weight: 700;
-    font-size: 26px;
+    font-size: 32px;
     font-family: serif;
+}
+
+.page-header {
+    margin-top: 10px;
 }
 
 #colors {
     border: 2px solid black;
+    margin-top: 10px;
 }
 
 #colors>h1 {
@@ -64,6 +69,7 @@ body>h1 {
 .box {
     width: 30%;
     height: 100px;
+    margin-left: 10px;
     display: inline-block;
 }
 
@@ -77,5 +83,50 @@ body>h1 {
     text-align: left;
     padding: 5px;
     margin: 5px;
+}
+
+#fonts {
+    border: 2px solid black;
+    margin-top: 10px;
+    
+}
+
+#fonts > div {
+    margin-top: 10px;
+    padding-left: 15px;
+}
+
+#fonts > h1 {
+    padding: 20px 10px;
+}
+
+#fonts > h3 {
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+#fonts > p {
+    text-align: left;
+}
+
+.font-ubuntu-mono {
+    font-family: 'Ubuntu Mono';
+}
+
+.font-open-sans {
+    font-family: 'open sans';
+}
+
+.font-sans-seriff {
+    font-family: sans-serif;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
 }
 

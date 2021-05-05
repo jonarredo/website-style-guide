@@ -85,6 +85,8 @@ body>h1 {
     margin: 5px;
 }
 
+/* Fonts styles */
+
 #fonts {
     border: 2px solid black;
     margin-top: 10px;
@@ -122,6 +124,10 @@ body>h1 {
     font-family: sans-serif;
 }
 
+.text-underline {
+    text-decoration: underline;
+}
+
 strong {
     font-weight: bold;
 }
@@ -130,3 +136,28 @@ em {
     font-style: italic;
 }
 
+/* Text styles */
+
+#text-styles {
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.texts-box {
+    width: 100%;
+    padding: 10px;
+}
+
+#text-styles > h1 {
+    margin: 10px;
+}
+
+ul {
+    margin-left: 5%;
+}
+
+li {
+    list-style: circle;
+    padding: 5px;
+}

@@ -6,3 +6,6 @@ full stack developer course curriculum.
 I have been tasked with a mission and my goal is to 
 accomplish it on my own. I am able to use google if
 I need to find the answers to any questions I have.
+
+Completed Version 1 site here
+[Website Style Guide](https://jonarredo.github.io/website-style-guide/)
